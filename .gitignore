@@ -1,0 +1,18 @@
+# Todo lo que generan los scripts al ejecutarse (logs, CSV, JSON, descargas)
+resultados/
+
+# Datos, gráficas y grabaciones: no van en el repo
+*.csv
+*.jsonl
+*.log
+*.png
+*.svg
+*.mov
+*.mp4
+*.zip
+*.gguf
+
+# Python y sistema
+__pycache__/
+*.pyc
+.DS_Store
