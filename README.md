@@ -129,6 +129,16 @@ Nada de esto va en el repo. Se descarga o se genera al ejecutar:
 - **`config.json` de Hugging Face**, para `scripts/kv.py hf`. Cada modelo tiene su propia licencia (por ejemplo, la Llama 3.1 Community License); consúltala en la página de cada repo.
 - **Los textos de los prompts largos**, generados a partir de las páginas de manual instaladas en tu sistema (`man zshall`, `man bash`).
 
+## About the author
+
+**Joaquín Ruiz** — [jokiruiz.com](https://jokiruiz.com) ·
+[youtube.com/@jokioki](https://youtube.com/@jokioki)
+
+📗 [Del vibe coding al Spec-Driven Development](https://amzn.eu/d/02csLpKC)
+📙 [El motor de la Inteligencia Artificial](https://amzn.eu/d/083CTN3U)
+📘 [Programar con Inteligencia Artificial](https://amzn.eu/d/eK4f73N)
+📙 [Explora la Inteligencia Artificial](https://amzn.eu/d/dSwYhue)
+
 ## Licencia
 
 [MIT](LICENSE) © 2026 Joaquín Ruiz
