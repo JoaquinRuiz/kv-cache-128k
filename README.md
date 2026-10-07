@@ -1,6 +1,7 @@
 # kv-cache-128k
 
-Scripts del vídeo **«Tu modelo local dice 128K de contexto. ¿Los aguanta?»** del canal **@jokioki** (IA para desarrolladores).
+Scripts del vídeo **«Le pasé 11.000 tokens a un modelo de 128k... y solo leyó 2.050»** del canal **@jokioki** (IA para desarrolladores).
+[link al video](https://www.youtube.com/watch?v=6suVRV8VT1U)
 
 Sirven para medir en tu propia máquina cuánto contexto aguanta de verdad un modelo local:
 
